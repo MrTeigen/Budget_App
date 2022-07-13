@@ -32,7 +32,8 @@ restaurant and more foo -15.89
 Transfer to Clothing    -50.00
 Total: 923.96
 
-Besides the Category class, create a function (outside of the class) called create_spend_chart that takes a list of categories as an argument. It should return a string that is a bar chart.
+Besides the Category class, create a function (outside of the class) called create_spend_chart that takes a list of categories as an argument.
+It should return a string that is a bar chart.
 
 The chart should show the percentage spent in each category passed in to the function.
 The percentage spent should be calculated only with withdrawals and not with deposits.
